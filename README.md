@@ -7,7 +7,7 @@
 * Platform: Android 2.2+
 * Modules: File Browser, Audio Player, Video Player
 * Lines of Code: 883
-* Month-Year: MAY-2011
+* Duration: 4 Months (FEB 2011 - MAY 2011)
 
 ### Screenshots
 
