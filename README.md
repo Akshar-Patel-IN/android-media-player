@@ -2,7 +2,8 @@
 ## Music Addict: Media Player for Android
 ### A media player for the Android platform which can play both audio files and video files. It includes file browser for audio files and video files.
 
-* Technologies: Java, XML, Content Providers, Shared Preferences
+* Technologies: Java, XML
+* Platform Features: Content Providers, Shared Preferences, Media Player
 * Tools and OS: Eclipse ADT, Ubuntu
 * Platform: Android 2.2+
 * Modules: File Browser, Audio Player, Video Player
