@@ -1,3 +1,4 @@
+### :small_blue_diamond: Project Year: 2011 :small_blue_diamond:
 ###### :rocket: my first android app :rocket:
 ## Music Addict: Media Player for Android
 ### A media player for the Android platform which can play both audio files and video files. It includes file browser for audio files and video files.
